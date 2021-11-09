@@ -1,0 +1,4 @@
+com\yash\springdatajpa\web\EmployeeController.class
+com\yash\springdatajpa\repository\EmployeeRepository.class
+com\yash\springdatajpa\SpringJpaEmsApplication.class
+com\yash\springdatajpa\model\Employee.class
